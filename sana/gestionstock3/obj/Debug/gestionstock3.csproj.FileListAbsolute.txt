@@ -1,0 +1,64 @@
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\bin\Debug\gestionstock3.exe.config
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\bin\Debug\gestionstock3.exe
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\bin\Debug\gestionstock3.pdb
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.csproj.AssemblyReference.cache
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.Form1.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.Properties.Resources.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.csproj.GenerateResource.cache
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.csproj.CoreCompileInputs.cache
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.exe
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.pdb
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\bin\Debug\MySql.Data.dll
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestions.249DD0E0.Up2Date
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.MDIParent1.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.NouvellePlanificationForm.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.CalculPlanification.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.AjouterFournisseur.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.AjoutArticle.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.AjouterCommande.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.ListeArticles.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.Listecommandes.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.ListeFournisseurs.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.ModifierArticles.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.AjouterMachine.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.ListesMachines.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.NouvelleTisserand.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.ListesTisserand.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.HistoriquePlanification.resources
+D:\travail\sana\Nouveau dossier (3)\gestionstock3\gestionstock3\obj\Debug\gestionstock3.AjouterFil.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\bin\Debug\gestionstock3.exe.config
+D:\travail\sana\sanaprojet\sana\gestionstock3\bin\Debug\gestionstock3.exe
+D:\travail\sana\sanaprojet\sana\gestionstock3\bin\Debug\gestionstock3.pdb
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.csproj.AssemblyReference.cache
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.AjoutArticle.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.AjouterCommande.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.AjouterFil.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.AjouterFournisseur.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.AjouterMachine.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.CalculPlanification.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.Form1.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.HistoriquePlanification.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ListeArticles.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.Listecommandes.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ListeFournisseurs.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ListesMachines.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ListesTisserand.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.MDIParent1.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ModifierArticles.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.NouvellePlanificationForm.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.NouvelleTisserand.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.Properties.Resources.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.csproj.GenerateResource.cache
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.csproj.CoreCompileInputs.cache
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestions.249DD0E0.Up2Date
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.exe
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.pdb
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ModifierFournisseurs.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ModifierFils.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ModifierParcMachine.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.modifierTisserand.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ModifierCommande.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ListFil.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.FichePlanification.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.FicheTechnique.resources
+D:\travail\sana\sanaprojet\sana\gestionstock3\obj\Debug\gestionstock3.ModifierPlanification.resources
